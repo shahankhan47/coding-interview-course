@@ -1,0 +1,7 @@
+1. Iterating single loop through a single collection - Probably O(n)
+2. Iterating through half a collection - Still O(n)
+3. Iterating 2 different collections with separate for loops - O(n+m)
+4. Iterating same collection with 2 nested for loops - O(n^2)
+5. Iterating different collections with 2 nested loops - O(n*m)
+6. Sorting - O(n*log(n))
+7. Searching a sorted array - O(log(n))
