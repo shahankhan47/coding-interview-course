@@ -1,0 +1,2 @@
+Great video explaining call stack, memory heap, V8 engine, Runtime Environment, WebAPI's, Callback Queue and Event Loop:
+https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12334642
