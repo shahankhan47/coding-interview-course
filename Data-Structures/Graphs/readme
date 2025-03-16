@@ -1,0 +1,25 @@
+Great data structure to model real world relationships.
+
+Linked Lists are a types of tree.
+Trees are a type of graph.
+
+Graphs are the most useful data structures in real life.
+
+Contains edges and vertices(nodes).
+Information can be stored in both edges and vertices.
+
+Types of graph:
+- Directed : Go from one node to another node in one direction.
+    E.g. Instagram Following. You follow someone but that person not necessarity follows you.
+- Undirected : Go back and forth between any node(s).
+    E.g. Facebook friends. When 2 people become add each other, they both follow and become friends.
+- Weighted Graph : Edges also contain information.
+- Unweighted graph : Edges do not contain information.
+- Cyclic : Nodes are connected in circular way.
+- Acyclic : Nodes are not connected in circular way.
+
+Pros:
+Relationships
+
+Cons:
+SCaling is very difficult.
