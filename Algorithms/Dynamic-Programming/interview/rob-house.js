@@ -10,6 +10,8 @@
 
 // LeetCode: https://leetcode.com/problems/house-robber/
 
+// Remember - not necessarily you will rob house alternatively. E.g. [2,1,1,2] should return 4 (1st and 4th house)
+
 function robHouse(nums) {
     
 }

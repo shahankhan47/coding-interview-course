@@ -167,4 +167,5 @@ tree.insert(15)
 tree.insert(1)
 tree.lookup(19)
 tree.remove(9)
-console.log(JSON.parse(JSON.stringify(traverse(tree.root))))
+
+module.exports = BinarySearchTree
